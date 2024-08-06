@@ -410,6 +410,11 @@
     margin-top: 100px;
 }
 
+#pengurusInti .pengurus .slide .card {
+    width: 18rem;
+    border: none;
+}
+
 #program .Kerja .card-text {
     font-family: Poppins;
     font-size: 25px;
